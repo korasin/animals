@@ -15,6 +15,7 @@ img{
     width: 200px;
     margin: 10px;
     margin-left: 10%;
+    float: left;
 }
 body{
     background-color: rgb(163, 17, 168);
