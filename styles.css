@@ -16,4 +16,10 @@ img{
     height: 100px;
     width: 200px;
     margin: 10px;
+    margin-left: 10%;
+}
+body{
+    background-color: rgb(163, 17, 168);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
